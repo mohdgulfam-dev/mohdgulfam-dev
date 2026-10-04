@@ -176,6 +176,6 @@ Purple-based primary color scheme, Lucide icons, and reusable design constants (
 
 <br>
 
-Feel free to reach out for collaboration or for any task.
+Open to collaboration, freelance opportunities, and interesting projects. Feel free to reach out!
 
 </div>
