@@ -60,16 +60,6 @@ I've built and published a real Flutter application on Google Play, and I want m
 | **Tools** | Git, GitHub, VS Code, Android Studio, Android SDK, Gradle, Android emulator |
 | **Release & Publishing** | APK, Android App Bundle (`.aab`), Play Console, App signing / upload keystore |
 
-### Technologies I've explored
-
-<p align="center">
-  <a href="https://firebase.google.com/docs"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>
-</p>
-
-Firebase concepts · REST APIs · HTML/CSS basics · PWA concepts
-
 ---
 
 ## 🚀 Featured Project
