@@ -150,9 +150,9 @@ Purple-based primary color scheme, Lucide icons, and reusable design constants (
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mohd-Gulfam87&show_icons=true&hide_border=true&theme=transparent&title_color=7C4DFF&icon_color=7C4DFF&text_color=9E9E9E" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mohd-Gulfam87&show_icons=true&hide_border=true&theme=transparent&title_color=5E35B1&icon_color=5E35B1&text_color=434d58" />
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mohd-Gulfam87&show_icons=true&hide_border=true&theme=transparent" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mohd-Gulfam87&show_icons=true&hide_border=true&hide_rank=true&theme=transparent&title_color=7C4DFF&icon_color=7C4DFF&text_color=9E9E9E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mohd-Gulfam87&show_icons=true&hide_border=true&hide_rank=true&theme=transparent&title_color=5E35B1&icon_color=5E35B1&text_color=434d58" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mohd-Gulfam87&show_icons=true&hide_border=true&hide_rank=true&theme=transparent" height="165" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Gulfam87&layout=compact&hide_border=true&theme=transparent&title_color=7C4DFF&text_color=9E9E9E" />
