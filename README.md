@@ -152,12 +152,12 @@ Purple-based primary color scheme, Lucide icons, and reusable design constants (
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohdgulfam-dev&show_icons=true&hide_rank=true&hide_border=true&theme=transparent&title_color=7C4DFF&icon_color=7C4DFF&text_color=9E9E9E" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mohdgulfam-dev&show_icons=true&hide_rank=true&hide_border=true&theme=transparent&title_color=5E35B1&icon_color=5E35B1&text_color=434d58" />
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mohdgulfam-dev&show_icons=true&hide_rank=true&hide_border=true&theme=transparent" align="top" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mohdgulfam-dev&show_icons=true&hide_rank=true&hide_border=true&theme=transparent" height="165" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=compact&hide=c%2B%2B%2Ccmake%2Cswift%2Cc%2Chtml%2Ckotlin&hide_border=true&theme=transparent&title_color=7C4DFF&text_color=9E9E9E" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=compact&hide=c%2B%2B%2Ccmake%2Cswift%2Cc%2Chtml%2Ckotlin&hide_border=true&theme=transparent&title_color=5E35B1&text_color=434d58" />
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=compact&hide=c%2B%2B%2Ccmake%2Cswift%2Cc%2Chtml%2Ckotlin&hide_border=true&theme=transparent" align="top" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=compact&hide=c%2B%2B%2Ccmake%2Cswift%2Cc%2Chtml&hide_border=true&theme=transparent&title_color=7C4DFF&text_color=9E9E9E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=compact&hide=c%2B%2B%2Ccmake%2Cswift%2Cc%2Chtml&hide_border=true&theme=transparent&title_color=5E35B1&text_color=434d58" />
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=compact&hide=c%2B%2B%2Ccmake%2Cswift%2Cc%2Chtml&hide_border=true&theme=transparent" height="165" />
 </picture>
 
 </div>
