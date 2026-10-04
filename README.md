@@ -11,14 +11,12 @@ MCA student passionate about app development, problem-solving, and learning.
 
 <br>
 
-<a href="https://docs.flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
-<a href="https://dart.dev/guides"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
-<a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+<a href="https://docs.flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="28" alt="Flutter" /></a>
+<a href="https://dart.dev/guides"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" height="28" alt="Dart" /></a>
+<a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="28" alt="Java" /></a>
 
-<br><br>
-
-<a href="https://play.google.com/store/apps/details?id=com.mohdgulfam.aistack"><img src="https://img.shields.io/badge/Get_AIStack_on_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get AIStack on Google Play" /></a>
-<a href="https://www.linkedin.com/in/mohd-gulfam-appdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.mohdgulfam.aistack"><img src="https://img.shields.io/badge/Get_AIStack_on_Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" height="28" alt="Get AIStack on Google Play" /></a>
+<a href="https://www.linkedin.com/in/mohd-gulfam-appdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
 
 </div>
 
@@ -44,7 +42,14 @@ I've built and published a real Flutter application on Google Play, and I want m
 ### Technologies I use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,c,git,github,androidstudio,vscode" alt="Technologies I use" />
+  <a href="https://docs.flutter.dev"><img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" /></a>&nbsp;&nbsp;
+  <a href="https://dart.dev/guides"><img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" /></a>&nbsp;&nbsp;
+  <a href="https://docs.oracle.com/en/java/"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /></a>&nbsp;&nbsp;
+  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>&nbsp;&nbsp;
+  <a href="https://docs.github.com"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://developer.android.com/studio/intro"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" /></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/docs"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /></a>
 </p>
 
 | Area | Details |
@@ -58,7 +63,9 @@ I've built and published a real Flutter application on Google Play, and I want m
 ### Technologies I've explored
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,html,css" alt="Technologies I've explored" />
+  <a href="https://firebase.google.com/docs"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" /></a>
 </p>
 
 Firebase concepts · REST APIs · HTML/CSS basics · PWA concepts
@@ -73,7 +80,7 @@ Firebase concepts · REST APIs · HTML/CSS basics · PWA concepts
 
 **100 AI tools. One app.**
 
-<a href="https://play.google.com/store/apps/details?id=com.mohdgulfam.aistack"><img src="https://img.shields.io/badge/Get_it_on_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.mohdgulfam.aistack"><img src="https://img.shields.io/badge/Get_it_on_Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" height="28" alt="Get it on Google Play" /></a>
 
 <a href="https://docs.flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></a>
 <a href="https://dart.dev/guides"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /></a>
@@ -130,7 +137,7 @@ Purple-based primary color scheme, Lucide icons, and reusable design constants (
 
 <div align="center">
 
-<a href="https://play.google.com/store/apps/details?id=com.mohdgulfam.aistack"><img src="https://img.shields.io/badge/View_on_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="View AIStack on Google Play" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.mohdgulfam.aistack"><img src="https://img.shields.io/badge/View_on_Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" height="28" alt="View AIStack on Google Play" /></a>
 
 <sub>Package name: <code>com.mohdgulfam.aistack</code></sub>
 
@@ -148,9 +155,9 @@ Purple-based primary color scheme, Lucide icons, and reusable design constants (
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mohdgulfam-dev&show_icons=true&hide_rank=true&hide_border=true&theme=transparent" align="top" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=pie&hide=c%2B%2B,cmake,swift,c,html,kotlin&hide_border=true&theme=transparent&title_color=7C4DFF&text_color=9E9E9E" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=pie&hide=c%2B%2B,cmake,swift,c,html,kotlin&hide_border=true&theme=transparent&title_color=5E35B1&text_color=434d58" />
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=pie&hide=c%2B%2B,cmake,swift,c,html,kotlin&hide_border=true&theme=transparent" align="top" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=compact&hide=c%2B%2B%2Ccmake%2Cswift%2Cc%2Chtml%2Ckotlin&hide_border=true&theme=transparent&title_color=7C4DFF&text_color=9E9E9E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=compact&hide=c%2B%2B%2Ccmake%2Cswift%2Cc%2Chtml%2Ckotlin&hide_border=true&theme=transparent&title_color=5E35B1&text_color=434d58" />
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=compact&hide=c%2B%2B%2Ccmake%2Cswift%2Cc%2Chtml%2Ckotlin&hide_border=true&theme=transparent" align="top" />
 </picture>
 
 </div>
@@ -175,7 +182,11 @@ Purple-based primary color scheme, Lucide icons, and reusable design constants (
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mohd-gulfam-appdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:gulfamsiddiqui612@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mohd-gulfam-appdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+<a href="mailto:gulfamsiddiqui612@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
+
+<br>
+
+Feel free to reach out for collaboration or for any task.
 
 </div>
