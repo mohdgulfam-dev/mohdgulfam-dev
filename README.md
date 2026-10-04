@@ -4,20 +4,20 @@
 
 ### Flutter Developer · MCA Student
 
+📍 Lucknow, India
+
 Flutter Developer focused on building clean, scalable mobile applications.<br>
 MCA student passionate about app development, problem-solving, and learning.
 
 <br>
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Lucknow-India-555555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lucknow, India" />
+<a href="https://docs.flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
+<a href="https://dart.dev/guides"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
+<a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
 
 <br><br>
 
 <a href="https://play.google.com/store/apps/details?id=com.mohdgulfam.aistack"><img src="https://img.shields.io/badge/Get_AIStack_on_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get AIStack on Google Play" /></a>
-<a href="https://github.com/mohdgulfam-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/mohd-gulfam-appdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
@@ -75,10 +75,10 @@ Firebase concepts · REST APIs · HTML/CSS basics · PWA concepts
 
 <a href="https://play.google.com/store/apps/details?id=com.mohdgulfam.aistack"><img src="https://img.shields.io/badge/Get_it_on_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" /></a>
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/Riverpod-State_Management-7C4DFF?style=flat-square" alt="Riverpod" />
-<img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+<a href="https://docs.flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></a>
+<a href="https://dart.dev/guides"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /></a>
+<a href="https://riverpod.dev"><img src="https://img.shields.io/badge/Riverpod-State_Management-7C4DFF?style=flat-square" alt="Riverpod" /></a>
+<a href="https://developer.android.com/docs"><img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" /></a>
 
 </div>
 
@@ -145,12 +145,12 @@ Purple-based primary color scheme, Lucide icons, and reusable design constants (
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohdgulfam-dev&show_icons=true&hide_rank=true&hide_border=true&theme=transparent&title_color=7C4DFF&icon_color=7C4DFF&text_color=9E9E9E" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mohdgulfam-dev&show_icons=true&hide_rank=true&hide_border=true&theme=transparent&title_color=5E35B1&icon_color=5E35B1&text_color=434d58" />
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mohdgulfam-dev&show_icons=true&hide_rank=true&hide_border=true&theme=transparent" height="165" />
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mohdgulfam-dev&show_icons=true&hide_rank=true&hide_border=true&theme=transparent" align="top" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=compact&hide=c%2B%2B,cmake,swift,c,html&hide_border=true&theme=transparent&title_color=7C4DFF&text_color=9E9E9E" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=compact&hide=c%2B%2B,cmake,swift,c,html&hide_border=true&theme=transparent&title_color=5E35B1&text_color=434d58" />
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=compact&hide=c%2B%2B,cmake,swift,c,html&hide_border=true&theme=transparent" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=pie&hide=c%2B%2B,cmake,swift,c,html,kotlin&hide_border=true&theme=transparent&title_color=7C4DFF&text_color=9E9E9E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=pie&hide=c%2B%2B,cmake,swift,c,html,kotlin&hide_border=true&theme=transparent&title_color=5E35B1&text_color=434d58" />
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdgulfam-dev&layout=pie&hide=c%2B%2B,cmake,swift,c,html,kotlin&hide_border=true&theme=transparent" align="top" />
 </picture>
 
 </div>
